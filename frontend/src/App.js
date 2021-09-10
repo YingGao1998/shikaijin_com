@@ -23,7 +23,7 @@ function App() {
   return (
     <div className={classes.root}>
       <Typography variant="h1" className={classes.title}>
-        ladies
+        ladies and
       </Typography>
       <Typography variant="h2">coming soon...</Typography>
 
