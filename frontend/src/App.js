@@ -12,7 +12,6 @@ const useStyles = makeStyles((theme) => ({
     fontWeight: 700,
     marginTop: "3rem",
     marginBottom: "2rem",
-    color: "red",
   },
   uwButton: {
     marginBlock: "3rem",
@@ -24,7 +23,7 @@ function App() {
   return (
     <div className={classes.root}>
       <Typography variant="h1" className={classes.title}>
-        Welcome to Mysite
+        ladies
       </Typography>
       <Typography variant="h2">coming soon...</Typography>
 
